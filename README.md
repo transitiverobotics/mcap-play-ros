@@ -1,6 +1,6 @@
-# mcapPlay
+# Mcap, play ROS!
 
-A tiny script to play back ROS1 messages from mcap files, just like `rosbag play`.
+A tiny script to play back mcap files as ROS 1 messages, just like `rosbag play`.
 
 ## Install dependencies
 
